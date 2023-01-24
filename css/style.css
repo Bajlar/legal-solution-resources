@@ -1,0 +1,37 @@
+/* Navbar section styles */
+.nav-link,
+.section-description,
+.card-text,
+.box-info {
+  color: #707070;
+}
+
+.btn-modal,
+.btn-search,
+.btn-send {
+  background-color: #B68C5A;
+  border-radius: 8px;
+}
+
+.btn-modal:hover,
+.btn-search:hover,
+.btn-send:hover {
+  background-color: #B68C5A;
+  color: #fff;
+}
+
+/* Banner section styles */
+.banner-pic {
+  background-image: url(../images/banner.png);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.heading-title {
+  font-family: 'EB Garamond', serif;
+}
+
+.banner-description {
+  color: #E7E7E7;
+}
